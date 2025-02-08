@@ -1,5 +1,13 @@
 # Online-Book-Store-Analysis-Using-SQL
 
+  
+  ![image](https://github.com/user-attachments/assets/9264c30b-d8b0-4047-a5db-ffa397905997)
+
+  
+  
+  
+  
+  
   **Basic Queries**
   
  1) Retrieve all books in the "Fiction" genre
